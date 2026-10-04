@@ -18,7 +18,8 @@
 'this is code'
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-![image](<img width="447" height="447" alt="SMILE" src="https://github.com/user-attachments/assets/5bebd016-dbb9-48ea-9fba-c7facc397f31" />)
+<img width="447" height="447" alt="SMILE" src="https://github.com/user-attachments/assets/db9f0ce0-d545-4249-ba69-57e10729a85a" />
+
 
 
 
